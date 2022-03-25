@@ -2,7 +2,7 @@
 👨‍🎓I am a student at Radius college, where i follow software development.<br>
 💻 I can code in => Python, C#, PHP, html, CSS,<br>
 📚I'd love to learn more about Deep AI, made already some ML<br> 
-with Neural networks.
+with Neural networks.<br>
 🌱I also like to make website's because, i can show my creativity visualy.
 ## Topical
 - 🌱 I’m currently learning Deep AI ,<br>also learning about unity engine wich is really fun to do
