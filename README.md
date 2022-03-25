@@ -8,13 +8,13 @@ with Neural networks.
 - 🌱 I’m currently learning Deep AI ,<br>also learning about unity engine wich is really fun to do
 
 ## 🛠 Skills
--Javascript,<br> 
--HTML,<br> 
--CSS,<br>  
--C#,<br>  
--PHP, <br> 
--MySQL, <br> 
--XAML,<br> 
+-Javascript,
+-HTML,
+-CSS,
+-C#,  
+-PHP,
+-MySQL,
+-XAML, 
 -Python
 
 
