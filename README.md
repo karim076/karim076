@@ -20,7 +20,6 @@ with Neural networks.<br>
     <td> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" width="40px" title="PHP"/> </td>
     <td> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40px" title="MySQL"/> </td>
     <td rowspan="2">
-        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karim076&layout=compact&hide=typescript&theme=dark&langs_count=5"/></a>
     </td>
   </tr>
