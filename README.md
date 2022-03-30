@@ -5,7 +5,7 @@
 with Neural networks.<br>
 🌱I also like to make website's because, i can show my creativity visualy.
 ## Topical
-- 🌱 I’m currently learning Deep AI ,<br>also learning about unity engine wich is really fun to do
+- 🌱 I’m currently learning Deep AI ,<br>also learning about unity engine wich is really fun to do.<br>
 !Updated- Right now having 3 projects running (ProjectScouting, B3_Developerland, SuperCoasterNV).Updated!
 
 ## 🛠 Skills
