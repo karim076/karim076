@@ -10,6 +10,7 @@ with Neural networks.<br>
 !Updated- Right now having 3 projects running (ProjectScouting, B3_Developerland, SuperCoasterNV).Updated!
 ## Designer skills
 ---<br>
+<img src="https://img.icons8.com/color/344/adobe-photoshop--v1.png" width="40px" title="Adobe Photoshop"/>
 Adobe Photoshop, Adobe XD, Adobe Premerie Pro, sketchup(3d modeling) and blender.<br>
 ---<br>
 ## 🛠 Skills
