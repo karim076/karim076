@@ -37,7 +37,9 @@ with Neural networks.<br>
   
 </table>
 ## Designer skills
-Adobe Photoshop, Adobe XD, Adobe Premerie Pro, sketchup(3d modeling) and blender.
+---<br>
+Adobe Photoshop, Adobe XD, Adobe Premerie Pro, sketchup(3d modeling) and blender.<br>
+---
 ## 🔗 Links
 - 📫 How to reach me: My email is hanserief12@gmail.com for quick reply. <br>
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
