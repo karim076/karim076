@@ -6,6 +6,7 @@ with Neural networks.<br>
 🌱I also like to make website's because, i can show my creativity visualy.
 ## Topical
 - 🌱 I’m currently learning Deep AI ,<br>also learning about unity engine wich is really fun to do.<br>
+- I also have a designer background, i did alot of photoshoping in Adobe Photoshop and video editing,<br>but my preference is more in coding but its a nice skill to have.
 !Updated- Right now having 3 projects running (ProjectScouting, B3_Developerland, SuperCoasterNV).Updated!
 
 ## 🛠 Skills
@@ -35,8 +36,8 @@ with Neural networks.<br>
   </tbody>
   
 </table>
-
-
+## Designer skills
+Adobe Photoshop, Adobe XD, Adobe Premerie Pro, sketchup(3d modeling) and blender.
 ## 🔗 Links
 - 📫 How to reach me: My email is hanserief12@gmail.com for quick reply. <br>
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
