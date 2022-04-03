@@ -6,8 +6,8 @@ with Neural networks.<br>
 🌱I also like to make website's because, i can show my creativity visualy.
 ## Topical
 - 🌱 I’m currently learning Deep AI ,<br>also learning about unity engine wich is really fun to do.<br>
-- I also have a designer background, i did alot of photoshoping in Adobe Photoshop and video editing,<br>but my preference is more in coding but its a nice skill to have.
-!Updated- Right now having 3 projects running (ProjectScouting, B3_Developerland, SuperCoasterNV).Updated!
+- I also have a designer background, i did alot of photoshoping in Adobe Photoshop and video editing,<br>but my preference is more in coding but its a nice skill to have.<br>
+- !Updated- Right now having 3 projects running (ProjectScouting, B3_Developerland, SuperCoasterNV).Updated!
 ## 🛠 Designer skills
 ---<br>
 <img src="https://img.icons8.com/color/344/adobe-photoshop--v1.png" width="40px" title="Adobe Photoshop"/>
