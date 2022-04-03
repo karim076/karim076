@@ -8,7 +8,10 @@ with Neural networks.<br>
 - 🌱 I’m currently learning Deep AI ,<br>also learning about unity engine wich is really fun to do.<br>
 - I also have a designer background, i did alot of photoshoping in Adobe Photoshop and video editing,<br>but my preference is more in coding but its a nice skill to have.
 !Updated- Right now having 3 projects running (ProjectScouting, B3_Developerland, SuperCoasterNV).Updated!
-
+## Designer skills
+---<br>
+Adobe Photoshop, Adobe XD, Adobe Premerie Pro, sketchup(3d modeling) and blender.<br>
+---<br>
 ## 🛠 Skills
 
 <table>
