@@ -8,6 +8,7 @@ with Neural networks.<br>
 - 🌱 I’m currently learning Deep AI ,<br>also learning about unity engine wich is really fun to do.<br>
 - I also have a designer background, i did alot of photoshoping in Adobe Photoshop and video editing,<br>but my preference is more in coding but its a nice skill to have.<br>
 - !Updated- Right now having 3 projects running (ProjectScouting, B3_Developerland, SuperCoasterNV).Updated!
+#Currunt job : <img src="https://www.jumbo.com/INTERSHOP/static/WFS/Jumbo-Grocery-Site/-/Jumbo-Grocery/nl_NL/CMS/Images/Thumbnails-search-%28180x180%29/search-algemeen.png" width="80px" title="Jumbo"/>
 ## 🛠 Designer skills
 ---<br>
 <img src="https://img.icons8.com/color/344/adobe-photoshop--v1.png" width="40px" title="Adobe Photoshop"/>
