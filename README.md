@@ -7,8 +7,9 @@ with Neural networks.<br>
 ## Topical
 - 🌱 I’m currently learning Deep AI ,<br>also learning about unity engine wich is really fun to do.<br>
 - I also have a designer background, i did alot of photoshoping in Adobe Photoshop and video editing,<br>but my preference is more in coding but its a nice skill to have.<br>
-- !Updated- Right now having 3 projects running (ProjectScouting, B3_Developerland, SuperCoasterNV).Updated!<br>
+- !Updated- Right now having 2 projects running (FotoKiosk(PRIVATE), Snelkookpan).Updated!<br>
 ##Current Job<br> 
+Junior Software Developer at BaseCode<br>
 <img src="https://basecode.nl/img/slices/home/logo-ventjeLOS.png" width="80px" title="Jumbo"/><br>
 ## 🛠 Designer skills
 ---<br>
