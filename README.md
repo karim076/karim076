@@ -10,7 +10,7 @@ with Neural networks.<br>
 - !Updated- Right now having 2 projects running (FotoKiosk(PRIVATE), Snelkookpan).Updated!<br>
 ##Current Job<br> 
 Junior Software Developer at BaseCode<br>
-<img src="https://basecode.nl/img/slices/home/logo-ventjeLOS.png" width="80px" title="Jumbo"/><br>
+<img src="https://basecode.nl/img/slices/home/pupke-code.png" width="80px" title="Jumbo"/><br>
 ## 🛠 Designer skills
 ---<br>
 <img src="https://img.icons8.com/color/344/adobe-photoshop--v1.png" width="40px" title="Adobe Photoshop"/>
