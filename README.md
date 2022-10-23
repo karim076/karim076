@@ -44,9 +44,6 @@ Junior Software Developer at BaseCode<br>
   </tr>
   </tbody>
 </table><br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karim076&show_icons=true&locale=en&layout=compact" alt="karim076" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karim076&show_icons=true&locale=en" alt="karim076" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karim076&" alt="karim076" /></p>
 
