@@ -43,9 +43,10 @@ Junior Software Developer at BaseCode<br>
     <td> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="40px" title="GitHub"/> </td>
   </tr>
   </tbody>
-</table>
-## 🔗 Links
-- 📫 How to reach me: My email is hanserief12@gmail.com for quick reply. <br>
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karim-alkichouhi-204434165/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AlkichouhiKarim)
+</table><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karim076&show_icons=true&locale=en&layout=compact" alt="karim076" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karim076&show_icons=true&locale=en" alt="karim076" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karim076&" alt="karim076" /></p>
 
