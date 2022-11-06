@@ -1,12 +1,12 @@
 #  ---------------Hi, I'm Karim! 👋--------------
-👨‍🎓I am a student at Radius college, where i follow software development.<br>
-💻 I can code in => Python, C#, PHP, html, CSS,<br>
+👨‍🎓I am a student at Radius college, where I follow software development.<br>
+💻 I can code In => Python, C#, PHP, html, CSS,<br>
 📚I'd love to learn more about Deep AI, made already some ML<br> 
 with Neural networks.<br>
-🌱I also like to make website's because, i can show my creativity visualy.
+🌱I also like to make website's because, I can show my creativity visualy.
 ## Topical
 - 🌱 I’m currently learning Deep AI ,<br>also learning about unity engine wich is really fun to do.<br>
-- I also have a designer background, i did alot of photoshoping in Adobe Photoshop and video editing,<br>but my preference is more in coding but its a nice skill to have.<br>
+- I also have a designer background, I did alot of photoshoping in Adobe Photoshop and video editing,<br>but my preference is more in coding but its a nice skill to have.<br>
 ## Current Job<br> 
 Junior Software Developer at BaseCode<br>
 ## 🛠 Designer skills
@@ -44,6 +44,7 @@ Junior Software Developer at BaseCode<br>
   </tr>
   </tbody>
 </table><br>
-[![Karim's stats](https://github-readme-stats.vercel.app/api/wakatime?username=karim076)]
+## Socials
+![LinkedIn](https://img.shields.io/badge/linkedin-%204434165.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
