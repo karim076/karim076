@@ -1,4 +1,5 @@
 #  ---------------Hi, I'm Karim! 👋--------------
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=karim076&label=Profile%20views&color=0e75b6&style=flat" alt="Karim Alkichouhi" /> </p><br>
 👨‍🎓I am a student at Radius college, where I follow software development.<br>
 💻 I can code In => Python, C#, PHP, html, CSS,<br>
 📚I'd love to learn more about Deep AI, made already some ML<br> 
@@ -45,6 +46,6 @@ Junior Software Developer at BaseCode<br>
   </tbody>
 </table><br>
 ## Socials
-![LinkedIn]<a href="www.linkedin.nl"><img src="https://img.shields.io/badge/linkedin-%204434165.svg?style=for-the-badge&logo=linkedin&logoColor=blue"></a>
+<a href="https://www.linkedin.com/in/karim-alkichouhi-204434165/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/koen-smit-0b303b252/" height="30" width="40" /></a>
 
 
