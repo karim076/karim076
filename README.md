@@ -45,6 +45,6 @@ Junior Software Developer at BaseCode<br>
   </tbody>
 </table><br>
 ## Socials
-![LinkedIn]<img src="https://img.shields.io/badge/linkedin-%204434165.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+![LinkedIn]<a href="www.linkedin.nl"><img src="https://img.shields.io/badge/linkedin-%204434165.svg?style=for-the-badge&logo=linkedin&logoColor=blue"></a>
 
 
