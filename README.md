@@ -1,5 +1,5 @@
 #  ---------------Hi, I'm Karim! 👋--------------
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karim076&label=Profile%20views&color=0e75b6&style=flat" alt="Karim Alkichouhi" /> </p><br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=karim076&label=Profile%20views&color=0e75b6&style=flat" alt="Karim Alkichouhi" /> </p>
 👨‍🎓I am a student at Radius college, where I follow software development.<br>
 💻 I can code In => Python, C#, PHP, html, CSS,<br>
 📚I'd love to learn more about Deep AI, made already some ML<br> 
