@@ -47,11 +47,11 @@ Junior Software Developer at BaseCode<br>
 ## TEST
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karim076&" alt="karim076" /></p>
 
-[![karim076's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![karim076's stats](https://github-readme-stats.vercel.app/api/wakatime?username=karim076)](https://github.com/karim076/github-readme-stats)
 
-[![karim076's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=karim076&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![karim076's stats](https://github-readme-stats.vercel.app/api/wakatime?username=karim076&hide_progress=true)](https://github.com/karim076/github-readme-stats)
 
 -   Compact layout
 
-[![karim076's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=karim076&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![karim076's stats](https://github-readme-stats.vercel.app/api/wakatime?username=karim076&layout=compact)](https://github.com/karim076/github-readme-stats)
 
