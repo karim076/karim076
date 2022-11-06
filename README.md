@@ -44,8 +44,6 @@ Junior Software Developer at BaseCode<br>
   </tr>
   </tbody>
 </table><br>
-## TEST
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karim076&" alt="karim076" /></p>
+[![Karim's stats](https://github-readme-stats.vercel.app/api/wakatime?username=karim076)]
 
-[![karim076's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=karim076&show_icons=true&theme=default#gh-light-mode-only)]
 
