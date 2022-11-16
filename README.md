@@ -27,7 +27,7 @@ Junior Software Developer at BaseCode<br>
   </tbody>
 </table>
 -<br>
-## 🛠 Coding skills
+# 🛠 Coding skills
 
 <table>
   
@@ -54,5 +54,5 @@ Junior Software Developer at BaseCode<br>
   </tr>
   </tbody>
 </table><br>
-## Socials<br>
+# Socials<br>
 <a href="https://www.linkedin.com/in/karim-alkichouhi-204434165/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/koen-smit-0b303b252/" height="30" width="40" /></a>
