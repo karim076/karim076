@@ -12,7 +12,20 @@ with Neural networks.<br>
 Junior Software Developer at BaseCode<br>
 ## 🛠 Designer skills
 ---<br>
-
+<table>
+  <tbody>
+    <tr>
+      <td><img src="https://img.icons8.com/color/344/adobe-premiere-pro--v1.png" width="40px" title="Adobe Premerie Pro"/></td>
+      <td><img src="https://img.icons8.com/color/344/google-sketchup.png" width="40px" title="Sketchup"/></td>
+      <td><img src="https://img.icons8.com/color/344/blender-3d.png" width="40px" title="Blender"/></td>
+    </tr>
+    <tr>
+      <td><img src="https://img.icons8.com/color/344/adobe-photoshop--v1.png" width="40px" title="Adobe Photoshop"/></td>
+      <td><img src="https://img.icons8.com/color/344/adobe-illustrator--v1.png" width="40px" title="Adobe AI"/></td>
+      <td><img src="https://img.icons8.com/color/344/adobe-xd--v1.png" width="40px" title="Adobe XD"/></td>
+    </tr>
+  </tbody>
+</table>
 -<br>
 ## 🛠 Coding skills
 
@@ -42,14 +55,4 @@ Junior Software Developer at BaseCode<br>
   </tbody>
 </table><br>
 ## Socials<br>
-<a href="https://www.linkedin.com/in/karim-alkichouhi-204434165/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/koen-smit-0b303b252/" height="30" width="40" /></a><br>
-
-<img src="https://img.icons8.com/color/344/adobe-premiere-pro--v1.png" width="40px" title="Adobe Premerie Pro"/>
-<img src="https://img.icons8.com/color/344/google-sketchup.png" width="40px" title="Sketchup"/>
-<img src="https://img.icons8.com/color/344/blender-3d.png" width="40px" title="Blender"/>
-<img src="https://img.icons8.com/color/344/adobe-photoshop--v1.png" width="40px" title="Adobe Photoshop"/>
-<img src="https://img.icons8.com/color/344/adobe-illustrator--v1.png" width="40px" title="Adobe AI"/>
-<img src="https://img.icons8.com/color/344/adobe-xd--v1.png" width="40px" title="Adobe XD"/>
-
-
-
+<a href="https://www.linkedin.com/in/karim-alkichouhi-204434165/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/koen-smit-0b303b252/" height="30" width="40" /></a>
