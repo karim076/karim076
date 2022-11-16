@@ -14,7 +14,7 @@ Junior Software Developer at BaseCode<br>
 ---<br>
 <img src="https://img.icons8.com/color/344/adobe-photoshop--v1.png" width="40px" title="Adobe Photoshop"/>
 <img src="https://img.icons8.com/color/344/adobe-illustrator--v1.png" width="40px" title="Adobe AI"/>
-<img src="https://img.icons8.com/color/344/adobe-xd--v1.png" width="40px" title="Adobe XD"/><br>t
+<img src="https://img.icons8.com/color/344/adobe-xd--v1.png" width="40px" title="Adobe XD"/>
 <img src="https://img.icons8.com/color/344/adobe-premiere-pro--v1.png" width="40px" title="Adobe Premerie Pro"/>
 <img src="https://img.icons8.com/color/344/google-sketchup.png" width="40px" title="Sketchup"/>
 <img src="https://img.icons8.com/color/344/blender-3d.png" width="40px" title="Blender"/><br>
@@ -39,7 +39,8 @@ Junior Software Developer at BaseCode<br>
   <tr>
     <td> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="40px" title="C#"/> </td>
     <td> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40px" title="Python"/> </td>
-    <td> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="ThreeJS" width="40px" title="Bootstrap"/> </td>
+  <td> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-plain.svg" alt="Python" width="40px" title="C++"/> </td>
+    <td> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="40px" title="Bootstrap"/> </td>
     <td> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40px" title="Visual Studio Code"/> </td>
     <td> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="40px" title="GitHub"/> </td>
   </tr>
