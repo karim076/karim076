@@ -1,17 +1,20 @@
-#  ---------------Hi, I'm Karim! 👋--------------
+#  ---------------Hi, I'm Karim! 👋--------------<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karim076&label=Profile%20views&color=0e75b6&style=flat" alt="Karim Alkichouhi" /> </p>
 👨‍🎓I am a student at Radius college, where I follow software development.<br>
 💻 I can code In => Python, C#, PHP, html, CSS,<br>
 📚I'd love to learn more about Deep AI, made already some ML<br> 
 with Neural networks.<br>
-🌱I also like to make website's because, I can show my creativity visualy.
-## Topical
+🌱I also like to make website's because, I can show my creativity visualy.<br>
+
+# Topical<br>
+
 - 🌱 I’m currently learning Deep AI ,<br>also learning about unity engine wich is really fun to do.<br>
 - I also have a designer background, I did alot of photoshoping in Adobe Photoshop and video editing,<br>but my preference is more in coding but its a nice skill to have.<br>
-## Current Job<br> 
+# Current Job <br> 
 Junior Software Developer at BaseCode<br>
-## 🛠 Designer skills
----<br>
+
+## 🛠 Designer skills<br>
+<br>
 <table>
   <tbody>
     <tr>
@@ -26,8 +29,9 @@ Junior Software Developer at BaseCode<br>
     </tr>
   </tbody>
 </table>
--<br>
-# 🛠 Coding skills
+<br>
+
+# 🛠 Coding skills<br>
 
 <table>
   
