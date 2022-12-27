@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎓I am a student at Radius college, where I follow software development.<br>💻 I can code In => Python, C#, PHP, html, CSS,<br>📚I'd love to learn more about Deep AI, made already some ML with Neural networks.<br>🌱I also like to make website's because, I can show my creativity visualy.
+👨‍🎓I am a student at Radius college, where I follow software development.<br>💻 I can code In => Python, C#(UWP/WinUI3), PHP, html, CSS and more<br>📚I'd love to learn more about Deep AI, made already some ML with Neural networks.<br>🌱I also like to make website's because, I can show my creativity visualy.
 
 
 ## 🌐 Socials:
