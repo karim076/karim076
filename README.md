@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎓I am a student at Radius college, where I follow software development, and i am a Software Engineer Trainee At Lab Services.<br>💻 I can code In => Python, C#(UWP/WinUI3) ASP.NET, Delphi, C++, PHP, html, CSS and more<br>📚I'd love to learn more about Deep AI, made already some ML with Neural networks.<br>🌱I also like to make website's because, I can show my creativity visualy, i still prefer the native/desktop aplication side and embedded.<br>
+👨‍🎓I am a student at Radius college, where I follow software development, and i am a Software Engineer Trainee At Consafe Logistics.<br>💻 I can code In => Python, C#(UWP/WinUI3) ASP.NET, Delphi, C++, PHP, html, CSS and more<br>📚I'd love to learn more about Deep AI, made already some ML with Neural networks.<br>🌱I also like to make website's because, I can show my creativity visualy, i still prefer the native/desktop aplication side and embedded.<br>
 I am Currently doing my internship at Consafe Logistic as a Software Engineer R&D. 
 
 
