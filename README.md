@@ -17,13 +17,13 @@ I'm a passionate software developer with a love for building cool stuff and maki
 
 ## 🌐 **Let's Connect!** 🔗
 
-<a href="https://linkedin.com/in/karim-alkichouhi">
+<a href="https://www.linkedin.com/in/karim-alkichouhi-204434165/">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://github.com/karim076">
   <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white" alt="GitHub" />
 </a>
-<a href="mailto:karim@example.com">
+<a href="mailto:k.alkichouhi@gmail.com">
   <img src="https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white" alt="Email" />
 </a>
 
